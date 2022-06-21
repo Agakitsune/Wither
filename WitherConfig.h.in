@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define Wither_VERSION_MAJOR @Wither_VERSION_MAJOR@
+#define Wither_VERSION_MINOR @Wither_VERSION_MINOR@
